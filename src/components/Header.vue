@@ -12,7 +12,7 @@ export default {
   
   data(){
     return{
-        msg: 'Grocery List'
+        msg: 'Grocery List 2020'
         }
   },
   //Lifecycle methods
